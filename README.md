@@ -18,7 +18,7 @@ In this table we can see the disparity of usability for PyBer across the city ty
 #### Overview of visualization
 | Visualizing Ride-sharing Data across City Types |
 | :---:|
-|screenshot of dataframe|
+|![PyBer_fare_summary](https://user-images.githubusercontent.com/89175578/138613832-4e3600d5-603a-4a76-ae56-7c1372359c5a.png)|
 
 This graph visually displays the disparities between the cities across the first 4 months of 2019. Here it is obvious that the rural cities are making way less than the other cities.
 
