@@ -9,7 +9,7 @@ This project is meant to analyze PyBer data in order to show trends across three
 ## Results of Analysis
 | Summarizing Ride-sharing Data across City Types |
 | :---:|
-|screenshot of dataframe|
+|<img width="610" alt="dataframe_summary" src="https://user-images.githubusercontent.com/89175578/138613812-5ab8035f-4f58-4095-bb33-c4ba787ba95f.png">|
 
 #### Overview of Summary Dataframe Results
 
